@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ModifyNow<br>📚 I'm currently learning, JavaScript (with TypeScript) and Python<br>📖 Studying 
+📚 I'm currently learning, JavaScript (with TypeScript) and Python<br>📖 Studying 
 
 
 ## 🌐 Socials:
