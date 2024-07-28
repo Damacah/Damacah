@@ -7,7 +7,7 @@ const damacah = {
   socials: {
 	𝕏: {
 	  username: "@damacaah",
-	  url: "https://twitter.com/damacaah"
+	  url: "https://x.com/damacaah"
 	},
   },
  funFact: "I have some experience in Unity and C# game development"
